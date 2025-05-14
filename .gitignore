@@ -4,3 +4,6 @@
 .DS_Store
 .env
 service_account.json
+*.session
+members.csv
+chats.csb
